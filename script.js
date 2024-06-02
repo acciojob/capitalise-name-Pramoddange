@@ -1,4 +1,4 @@
-  document.addEventListener('DOMContentLoaded', function() {
+ 
             // Get the input field
             const inputField = document.getElementById('fname');
 
