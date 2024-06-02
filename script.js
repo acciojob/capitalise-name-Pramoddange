@@ -7,4 +7,4 @@
                 // Convert the content of the input field to uppercase
                 inputField.value = inputField.value.toUpperCase();
             });
-        });
+        
